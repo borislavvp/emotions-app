@@ -2,9 +2,7 @@
 
 ## About
 
-This repo contains a NextJS app for demoing and testing Hume APIs. It implements several streaming interfaces that provide an intuitive validation of model quality.
-
-You can try it out here: https://hume-sandbox.netlify.app
+This repo contains a NextJS app for demoing and testing Hume APIs emotions detection. It implements several streaming interfaces that provide an intuitive validation of model quality.
 
 ## Requirements
 
